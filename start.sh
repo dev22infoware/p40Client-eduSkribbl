@@ -1,1 +1,1 @@
-http-server --port 8140
+http-server --port 8140 -P
