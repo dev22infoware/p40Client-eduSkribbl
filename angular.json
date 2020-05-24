@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "p40Client"
+    }
+  },
+  "defaultProject": "p40Client",
+  "cli": {
+    "analytics": false
+  }
 }
